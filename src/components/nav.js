@@ -5,7 +5,7 @@ class Nav extends Component {
     return (
       <nav>
           <ul>
-              <li className="logo">Design<span>Labs</span></li>
+              <li className="logo">April<span>Martinez</span></li>
           </ul>
           <ul>
               <li><a href="#">About</a></li>
